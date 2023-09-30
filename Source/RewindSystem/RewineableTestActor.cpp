@@ -3,7 +3,7 @@
 
 #include "RewineableTestActor.h"
 
-#include "RewineableActorComponent.h"
+#include "Public/Rewind/RewineableActorComponent.h"
 
 
 // Sets default values

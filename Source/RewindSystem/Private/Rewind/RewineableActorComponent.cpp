@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "RewineableActorComponent.h"
+#include "RewindSystem/Public/Rewind/RewineableActorComponent.h"
 
 // Sets default values for this component's properties
 URewineableActorComponent::URewineableActorComponent()

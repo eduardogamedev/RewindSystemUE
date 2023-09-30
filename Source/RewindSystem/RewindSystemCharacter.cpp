@@ -9,7 +9,7 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
-#include "RewindActorComponent.h"
+#include "Public/Rewind/RewindActorComponent.h"
 
 
 //////////////////////////////////////////////////////////////////////////

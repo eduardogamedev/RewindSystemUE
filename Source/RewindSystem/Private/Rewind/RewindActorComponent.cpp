@@ -1,13 +1,11 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "RewindActorComponent.h"
+#include "RewindSystem/Public/Rewind/RewindActorComponent.h"
 
-#include "EngineUtils.h"
-#include "RewineableActorComponent.h"
-#include "RewineableTestActor.h"
 #include "Kismet/GameplayStatics.h"
-#include "Net/UnrealNetwork.h"
+#include "RewindSystem/RewineableTestActor.h"
+#include "RewindSystem/Public/Rewind/RewineableActorComponent.h"
 
 // Sets default values for this component's properties
 URewindActorComponent::URewindActorComponent()
